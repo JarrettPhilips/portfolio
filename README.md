@@ -1,6 +1,6 @@
 
-<p style="text-align: center;"> Jarrett Philips </p>
-<p style="text-align: center;"> jarrettphilips@gmail.com | 303-817-8521 | Github | LinkedIn </p>
+<p style="text-align: center;"> <font size="6"> Jarrett <b>Philips</b> </font></p>
+<p style="text-align: center;"> <a href = "mailto: jarrettphilips@gmail.com">jarrettphilips@gmail.com</a> | 303-817-8521 | <a href="https://github.com/jarrettphilips">Github</a> | <a href="https://linkedin.com/in/jarrettphilips">LinkedIn</a> </p>
 
 ## Table of Contents
 1. [Project Marion - Gravity Offload System](#Project-Marion---Gravity-Offload-System)
