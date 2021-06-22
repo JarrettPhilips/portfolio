@@ -22,7 +22,7 @@ _________________
 
 In order to ensure reliability in orbit, solar arrays must first be precisely tested on the ground. This requires the offload of gravitational forces while minimizing any forces imposed by the testing fixture itself. As our senior project at CU Boulder's Design Center Colorado, we partnered with Ball Aerospace to develop a new test fixture. This project is a solution that provides an active, scalable, and reconfigurable apparatus to support ground testing for a wide range of solar array sizes and variable deployment architectures. The prototype implements a computer vision control system to autonomously track the path of each individual solar panel in the array. The active, two-axis gantry system positions itself over the attachment point suspending each solar panel, minimizing lateral forces during testing. I was the systems engineer and lead software engineer, responsible for the planning and creation of a vast majority of the codebase, including the Robotic OperatingSystem (ROS) framework, computer vision systems (Python), reactive and predictive motion path generation (Python), motor drivers (C++), as well as system administration and networking. Its source code remains Ball's IP, but our white paper is available for everyone to read!
 
-**White Paper** https://drive.google.com/file/d/1Ck5W8u5mIM23X1tua7kFaKKlf4Jps6Nt/view
+**White Paper** https://drive.google.com/file/d/115FRohugHXU5bDeiBJLlkzixA58wok5Z/view?usp=sharing
 
 
 _________________
